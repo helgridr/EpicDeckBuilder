@@ -1,5 +1,5 @@
 {
-  "date" : "10\/7\/2017",
+  "date" : "10\/13\/2017",
   "cards" : [
     {
       "type" : "CHAMPION",
@@ -107,15 +107,17 @@
       "type" : "EVENT"
     },
     {
-      "artist_name" : "Daniel Warren",
+      "type" : "CHAMPION",
       "cost" : 1,
+      "cube_rarity" : "Rare",
+      "artist_name" : "Daniel Warren",
       "set" : "Kickstarter Promo",
       "subtype" : "CONSTRUCT",
       "alignment" : "SAGE",
+      "offense" : 6,
       "rules_text" : "If this card entered play from your hand, it has Loyalty 2 → Blitz.\n{expend}, Banish a card from your discard pile: Put a token champion into play that is a copy of this card.",
-      "cube_rarity" : "Rare",
-      "name" : "Scrap Golem",
-      "type" : "CHAMPION"
+      "defense" : 6,
+      "name" : "Scrap Golem"
     },
     {
       "set" : "Kickstarter Promo",
